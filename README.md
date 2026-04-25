@@ -8,4 +8,4 @@ Simulación del juego Yahtzee para dos jugadores usando el método de Montecarlo
 
 ## Ejecución
 ```bash
-python main.py
+yahtzee.py
